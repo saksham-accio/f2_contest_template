@@ -7,6 +7,7 @@ let arr = [
 ];
 
 function PrintDeveloperbyMap() {
+  console.log("hello world");
   //Write your code here , just console.log
 }
 
